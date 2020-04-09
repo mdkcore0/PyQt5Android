@@ -27,7 +27,7 @@
         ],
         "android#modules":              [
                 "QtCore", "QtWidgets", "QtAndroidExtras",
-                "QtGui"
+                "QtGui", "QtQuick", "QtNetwork", "QtQml"
         ],
 
         "source":                       "PyQt5_gpl-5.12.3.tar.gz"
