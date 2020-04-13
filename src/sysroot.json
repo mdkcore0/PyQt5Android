@@ -26,8 +26,8 @@
                 "PyQt_PrintPreviewDialog", "PyQt_PrintPreviewWidget"
         ],
         "android#modules":              [
-                "QtCore", "QtQuick", "QtWidgets", "QtAndroidExtras",
-                "QtGui", "QtNetwork", "QtQml"
+                "QtCore", "QtWidgets", "QtAndroidExtras",
+                "QtGui"
         ],
 
         "source":                       "PyQt5_gpl-5.12.3.tar.gz"

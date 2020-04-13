@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
-import os
+#import os
 
 # from PyQt5.QtCore import Qt
 # from PyQt5.QtCore import QUrl
@@ -21,9 +21,7 @@ if __name__ == '__main__':
     # view.setColor(Qt.black)
     # view.showFullScreen()
 
-    # sys.exit(app.exec_())
     w = QWidget(windowTitle="Sour?")
-    w.setStyleSheet("background-color:magenta;")
+    w.setStyleSheet("background-color:orange;")
     w.show()
-    app.exec_()
-    sys.exit()
+    sys.exit(app.exec_())

@@ -5,4 +5,4 @@ export ANDROID_NDK_PLATFORM=android-26
 export ANDROID_HOME=/home/rodrigo/downloads/Android/sdk
 export ANDROID_SDK_ROOT=$ANDROID_HOME
 export JAVA_HOME=/usr/lib64/java
-export PATH=$ANDROID_HOME/tools/bin:$ANDROID_NDK_ROOT:$PATH
+export PATH=$ANDROID_HOME/tools/bin:$ANDROID_NDK_ROOT:$ANDROID_SDK_ROOT/emulator:$PATH
